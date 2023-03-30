@@ -1,0 +1,65 @@
+\documentclass[12pt]{book}
+
+%These tell TeX which packages to use.
+\usepackage{array,epsfig}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{amsxtra}
+\usepackage{amsthm}
+\usepackage{mathrsfs}
+\usepackage{color}
+\usepackage{mathtools}  % for paired delimiters 
+\usepackage{mathrsfs}   % for script capitals
+\usepackage[portuguese]{babel}
+\usepackage{multicol}
+\usepackage{indentfirst} 
+\DeclarePairedDelimiter{\parens}()
+
+%Pagination stuff.
+\setlength{\topmargin}{-.3 in}
+\setlength{\oddsidemargin}{0in}
+\setlength{\evensidemargin}{0in}
+\setlength{\textheight}{9.in}
+\setlength{\textwidth}{6.5in}
+\pagestyle{empty}
+
+\renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}.}
+\renewcommand{\labelenumiii}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.}
+\renewcommand{\labelenumiv}{\arabic{enumi}.\arabic{enumii}.\arabic{enumiii}.\arabic{enumiv}.}
+
+\begin{document}
+
+\begin{center}
+    {\Large Instituto de Matemática - UFRJ}\\
+    \textbf{Cálculo Diferencial e Integral IV - 2023.1}\\ %You should put your name here
+    \today%You should write the date here.
+\end{center}
+
+\vspace{0.2 cm}
+
+\subsection*{Lista de Exercícios 1: Sequências e Séries}
+
+\subsection*{Sequências}
+
+\begin{enumerate}
+    \input{exercicios/exerc01.tex}
+    \input{exercicios/exerc02.tex}
+    \input{exercicios/exerc03.tex}
+    \input{exercicios/exerc04.tex}
+    \input{exercicios/exerc05.tex}
+\end{enumerate}
+
+\subsection*{Séries}
+
+\begin{enumerate}\setcounter{enumi}{5}
+    \input{exercicios/exerc06.tex}
+    \input{exercicios/exerc07.tex}
+    \input{exercicios/exerc08.tex}
+    \input{exercicios/exerc09.tex}
+    \input{exercicios/exerc10.tex}
+    \input{exercicios/exerc11.tex}
+    \input{exercicios/exerc12.tex}
+\end{enumerate}
+
+\end{document}
