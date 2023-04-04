@@ -77,30 +77,24 @@ Leia o arquivo [CONTRIBUTING.md](https://github.com/GSimas/INE5406/blob/master/C
 ## Referências:
 
 - [Prof. José Luís A. Guntzel](https://www.inf.ufsc.br/~j.guntzel/)
-- [Sistemas Digitais](https://www.inf.ufsc.br/~j.guntzel/ine5406/ine5406.html)
-- VAHID, Frank. Sistemas Digitais: projeto, otimização e HDLs. Porto Alegre: Bookman, 2008. (ISBN 978-85-7780-190-9)
-- PATTERSON, David A.; HENNESSY, John L. “Computer Organization and Design: the hardware/software Interface”, 3rd edition, Morgan Kaufmann Publishers, San Francisco, California, USA, 2007.
-- HARRIS, David M.; HARRIS, Sarah L. “Digital Design and Computer Architecture”, 2nd edition, Morgan Kaufmann Publishers, Waltham, MA, USA, 2013.
+- [Cálculo IV](https://arquimedes.nce.ufrj.br/calculo4/index.php?mode=light)
+- ”Cálculo”, volume 2 de James Stewart
+- “Equações Diferenciais Elementares e Problemas de Valores de Contorno” de William E. Boyce e Richard C. DiPrima
+- WANNER G. “Analysis by Its History”, 1nd edition, Springe Publishers Waltham, MA, USA, 2008.
 
 ## Avaliação
 
-#### 3 Provas + 1 trabalho(obrigatório)
+#### 2 Provas
 
-Nota = (2\*(P1 + P2) + Trabalho)/5
+$$MP = \frac{P1 + P2}{2}$$
 
-Nota >= 7.0 => Aprovado
+MP >= 7.0 => Aprovado
 
-Caso contrário: (Nota+P3)/2 >= 5 => Aprovado
+Caso contrário: (MP+PF)/2 >= 5 => Aprovado
 
 ### Provas
 
-- **P1**: 11/10/2013
-- **P2**: 22/11/2013
-- **P3**: 06/12/2013
-
-### Trabalho
-
-- **Escolha do Tema**: Agosto
-- **1ª Apresentação**: Setembro(final) - Breve apresentação, em torno de 3 minutos.
-- **2ª Apresentação**: Outubro(final) - Mostrar andamento.
-- **Entrega**: Até 02/12/2013
+- **P1**: 19/05/2023
+- **P2**: 06/07/2023
+- **PF**: 11/07/2023
+- **PS**: 20/07/2023

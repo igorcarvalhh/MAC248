@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  30 MAR 2023 00:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.3.28)  4 APR 2023 11:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/igorc/Code/Analise Real I/MAC248/main.tex"
-(c:/Users/igorc/Code/Analise Real I/MAC248/main.tex
+**c:/Users/igorc/Code/materias/MAC248/main.tex
+(c:/Users/igorc/Code/materias/MAC248/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -148,11 +148,79 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
 \Hy@SectionHShift=\skip50
+) (c:/texlive/2023/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
+\c@tracingmulticols=\count272
+\mult@box=\box51
+\multicol@leftmargin=\dimen146
+\c@unbalance=\count273
+\c@collectmore=\count274
+\doublecol@number=\count275
+\multicoltolerance=\count276
+\multicolpretolerance=\count277
+\full@width=\dimen147
+\page@free=\dimen148
+\premulticols=\dimen149
+\postmulticols=\dimen150
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box52
+\last@line=\box53
+\maxbalancingoverflow=\dimen151
+\mult@rightbox=\box54
+\mult@grightbox=\box55
+\mult@firstbox=\box56
+\mult@gfirstbox=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count278
+\c@columnbadness=\count279
+\c@finalcolumnbadness=\count280
+\last@try=\dimen152
+\multicolovershoot=\dimen153
+\multicolundershoot=\dimen154
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count281
 ) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count272
-\l__pdf_internal_box=\box51
-) (./main.aux (./aulas/aula01.aux))
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box96
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -192,7 +260,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (4.77837pt too wide) in paragraph at lines 37--37
+Overfull \hbox (4.77837pt too wide) in paragraph at lines 38--38
  [][] [][]\OT1/cmr/m/n/10 Condi^^Xc~oes de Con-torno: Di-ri-ch-let e Neu-mann no Ret^angulo 
  []
 
@@ -200,54 +268,51 @@ Overfull \hbox (4.77837pt too wide) in paragraph at lines 37--37
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [2]
-\openout2 = `aulas/aula01.aux'.
-
  (./aulas/aula01.tex
-Overfull \hbox (15.95139pt too wide) in paragraph at lines 10--10
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 3.
+
+[2{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}])
+Overfull \hbox (15.95139pt too wide) in paragraph at lines 29--29
 []\OT1/cmr/bx/n/12 S^^Series de Pot^encia: De-fini^^Xc~ao, In-ter-valo de Con-verg^encia,
  []
 
-) [3
 
-]
-Overfull \hbox (3.37784pt too wide) in paragraph at lines 31--31
+Overfull \hbox (3.37784pt too wide) in paragraph at lines 40--40
 []\OT1/cmr/bx/n/12 Resolu^^Xc~ao de Pro-ble-mas de Va-lor Ini-cial para Equa^^Xc~oes
  []
 
 
-Overfull \hbox (11.42644pt too wide) in paragraph at lines 34--34
+Overfull \hbox (11.42644pt too wide) in paragraph at lines 43--43
 []\OT1/cmr/bx/n/12 Resolu^^Xc~ao de Equa^^Xc~oes Di-fe-ren-ci-ais com Fun^^Xc~ao For^^Xcada
  []
 
 
-Overfull \hbox (3.07962pt too wide) in paragraph at lines 47--47
+Overfull \hbox (3.07962pt too wide) in paragraph at lines 56--56
 []\OT1/cmr/bx/n/14.4 Equa^^Xc~oes Di-fe-ren-ci-ais Par-ci-ais(EDP) Cl^^Sassicas 
  []
 
-[4
+[3]
+Overfull \vbox (363.26317pt too high) has occurred while \output is active []
 
-
-]
-Overfull \vbox (132.05498pt too high) has occurred while \output is active []
-
- [5] (./main.aux (./aulas/aula01.aux))
+ [4] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E25CD90DC18DF6A6D20CF8E58C985F0D;10435.
+(rerunfilecheck)             Checksum: 3B548354E2D3346BD97D9298BA051B4A;10625.
  ) 
 Here is how much of TeX's memory you used:
- 8397 strings out of 476025
- 135814 string characters out of 5794015
+ 8525 strings out of 476025
+ 137560 string characters out of 5794015
  1867382 words of memory out of 5000000
- 28736 multiletter control sequences out of 15000+600000
- 516711 words of font info for 47 fonts, out of 8000000 for 9000
+ 28856 multiletter control sequences out of 15000+600000
+ 517046 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,76p,781b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (5 pages, 98667 bytes).
+ 75i,6n,76p,773b,584s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on main.pdf (4 pages, 159326 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
- 237 compressed objects within 3 object streams
- 43 named destinations out of 1000 (max. 500000)
- 289 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 303 PDF objects out of 1000 (max. 8388607)
+ 268 compressed objects within 3 object streams
+ 49 named destinations out of 1000 (max. 500000)
+ 297 words of extra memory for PDF output out of 10000 (max. 10000000)
 

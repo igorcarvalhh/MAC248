@@ -2,6 +2,7 @@
 
 \usepackage[portuguese]{babel}
 \usepackage{hyperref}
+\usepackage{multicol}
 
 \title{Cálculo Diferencial e Integral IV (MAC248)\\Notas de Aula}
 \author{Igor Carvalho Ramos Leal\\\href{mailto:igorcarvalho@poli.ufrj.br}{\texttt{igorcarvalho@poli.ufrj.br}}}
@@ -9,8 +10,7 @@
 
 %\renewcommand{\thechapter}{\Roman{chapter}}
 \newcommand{\aula}[2]{
-	\newpage
-	\section{#1 (#2)}
+	\subsubsection{#1 (#2)}
 }
 
 \begin{document}
@@ -18,7 +18,16 @@
 \maketitle
 \tableofcontents
 
-\include{aulas/aula01.tex}
+\section{Séries Infinitas}
+\input{aulas/aula01.tex}
+
+\subsection{Definição de Séries Numéricas}
+\subsection{Condição Necessária para Convergência de uma Série Infinita}
+\subsection{Séries Infinitas de Termos Positivos: Teste da Comparação, Teste da Integral, Teste de D'Alembert (teste da razão)}
+\subsection{Séries Alternadas: Teste de Leibniz (teste da série alternada)}
+\subsection{Séries Absolutamente e Condicionalmente Convergentes}
+\subsection{Séries de Potência: Definição, Intervalo de Convergência, Diferenciação e Integração de Séries de Potências.}
+\subsection{Séries de Taylor}
 
 \section{Solução por Séries de Equações Lineares de Segunda Ordem}
 \subsection{Soluções por Sëries Próximo a Ponto Ordinário}

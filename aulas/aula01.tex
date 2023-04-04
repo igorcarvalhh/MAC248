@@ -1,11 +1,23 @@
 %\aula{Modelos conceitual, logico e fisico.}{29/03/2023}
 
-\section{Séries Infinitas}
+\aula{Sequências}{04/04/2023}
 
-\subsection{Definição de Séries Numéricas}
-\subsection{Condição Necessária para Convergência de uma Série Infinita}
-\subsection{Séries Infinitas de Termos Positivos: Teste da Comparação, Teste da Integral, Teste de D'Alembert (teste da razão)}
-\subsection{Séries Alternadas: Teste de Leibniz (teste da série alternada)}
-\subsection{Séries Absolutamente e Condicionalmente Convergentes}
-\subsection{Séries de Potência: Definição, Intervalo de Convergência, Diferenciação e Integração de Séries de Potências.}
-\subsection{Séries de Taylor}
+\subsubsection*{Teoremas importantes}
+
+\begin{itemize}
+    \item Dado uma função $f$ tal que $f(n) = a_n$, $\forall n \in N$. Então, se $\displaystyle \lim_{x \rightarrow \infty} f(x) = L \Longrightarrow \lim a_n = L$
+    \item Se $\lim |a_n| = 0$, então $\lim a_n = 0$
+    \item Dado a sequência $b_n = f(a_n)$. Se $\lim a_n = L$ e $f$ contínua em $L$, então $\lim b_n = \lim f(a_n) = f(\lim a_n)$
+\end{itemize}
+
+Exercícios
+
+\begin{multicols}{2}
+    \begin{enumerate}
+        \item \[ \lim \frac{n}{\sqrt{10 + n}} \]
+        \item \[ \lim \frac{n!}{n^n} \] Dica! pensar em $MA \geq MG$
+        \item \[ \lim \frac{n^2}{e^n} \]
+        \item \[ \lim \frac{n!}{2^n} \]
+        \item \[ \lim \left( 1 + \frac{2}{n} \right)^2 \]
+    \end{enumerate}
+\end{multicols}
